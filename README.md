@@ -2,7 +2,6 @@
 # IT Support Portfolio
 
 ### Ujwal Adhikari
-**IT Support | Technical Troubleshooting | Networking | Educational Technology**
 
 Welcome to my IT Support portfolio.
 
